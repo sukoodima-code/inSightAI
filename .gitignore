@@ -1,3 +1,7 @@
 ".idea/" 
+<<<<<<< HEAD
 # Python virtual environment
 python/venv/
+=======
+backend/venv
+>>>>>>> devs
